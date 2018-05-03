@@ -54,6 +54,9 @@ const settings =
       "Accept"      : "text/plain; charset=utf-8",      
       "Content-Type": "text/plain; charset=utf-8"
   }
+  
+  // HTTP method to use for the request
+  'method' : 'GET'
 } 
 ```
 
